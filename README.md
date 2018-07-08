@@ -8,4 +8,4 @@ A WeChat miniapp that can be used to check the weather.
 The project is under development and is expected to complete all functions within a week.
 
 ## License
-This project is licensed under the GNU License - see the LICENSE.md file for details
+This project is licensed under the GPL-v3.0 License - see the LICENSE file for details
