@@ -1,8 +1,5 @@
 {
 	"description": "项目配置文件。",
-	"packOptions": {
-		"ignore": []
-	},
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
@@ -11,10 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
-	"appid": "wx383f04b648c2e6a3",
+	"libVersion": "1.9.93",
+	"appid": "touristappid",
 	"projectname": "weather",
-	"isGameTourist": false,
 	"condition": {
 		"search": {
 			"current": -1,
